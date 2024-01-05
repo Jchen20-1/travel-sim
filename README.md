@@ -1,5 +1,6 @@
 # travel-simulator
 
+![](assets/example.png)
 
 
 ## Objective
