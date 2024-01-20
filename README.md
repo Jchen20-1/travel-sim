@@ -3,6 +3,8 @@
 ![](assets/example.png)
 
 
+## Difficulty
+Beginner
 ## Objective
 
 Use **HTML Links, Images, Headers** and correctly specify the file paths to travel around the world.
