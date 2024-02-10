@@ -40,6 +40,10 @@ To complete this project, students should have the following:
 |---------------------|------------------------------------------------------------------------------------------------------|
 | assets/paris.jpeg   | Goes into the assets folder, then points to the paris.jpeg.                                          |
 | ../assets/paris.jpg | Goes outside of the current folder, then goes into the assets folder, then points to the paris.jpeg. |
+## Before You Start:
+
+Make sure you have a folder/directory named "assets", with all the pictures of various places in there. If not, please copy the assets folder from above and paste it into your repel.
+
 
 ## Your Challenge
 
